@@ -1,5 +1,7 @@
 # Sales Lead KPI Tracking Dashboard
 
+- [Sales Lead KPI Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1eFuTHNonT8lBaIRY3pRLgIrJHoVuJbRFWIhW5krpz1U/edit?usp=sharing)
+
 ## Overview
 
 This project was created to provide a comprehensive view of sales leads activity for my team at Franklin Loan Center. The primary objective was to track, analyze, and visualize the sales leads data to help the sales team make data-driven decisions, improve lead conversion rate and determine where was the best place to spend our advertising dollars.
